@@ -1,7 +1,7 @@
 parameters: {}
 environment: {}
 packages:
-    - name: default
+    - name: hire-redirect
       shared: false
       environment: {}
       parameters: {}
